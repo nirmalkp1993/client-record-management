@@ -10,15 +10,15 @@ Follow these steps to set up the project on your local system:
 
 1. **Clone the Repository**
    ```sh
-   git clone 'repo-url'
+   git clone https://github.com/nirmalkp1993/client-record-management.git
    ```
-   Replace `'repo-url'` with the actual repository URL.
+  
 
 2. **Navigate to the Project Directory**
    ```sh
-   cd folder-name
+   cd client-record-management
    ```
-   Replace `folder-name` with the actual project folder name.
+  
 
 3. **Install Dependencies**
    ```sh
